@@ -24,6 +24,7 @@ Understand how different types of smartphone usage (education, gaming, social me
 
 
 > 📎 The full interactive dashboard is available in the file  
+📥 **Download Power BI Template (.pbit):** [Click here](./Teenages_Phone_Addiction.pbit)
 
 
 
